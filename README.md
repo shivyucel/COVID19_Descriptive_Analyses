@@ -8,4 +8,4 @@ Data for analysis retrieved from OxCOVID19 Database*.
 
 Both parts can be found in "code_and_text.ipynb".
 
-* Adam Mahdi, Piotr Błaszczyk, Paweł Dłotko, Dario Salvi, Tak-Shing Chan, John Harvey, Davide Gurnari, Yue Wu, Ahmad Farhat, Niklas Hellmer, Alexander Zarebski, Bernie Hogan, Lionel Tarassenko, Oxford COVID-19 Database: a multimodal data repository for better understanding the global impact of COVID-19. University of Oxford, 2020. medRxiv (doi: https://doi.org/10.1101/2020.08.18.20177147).
+*Adam Mahdi, Piotr Błaszczyk, Paweł Dłotko, Dario Salvi, Tak-Shing Chan, John Harvey, Davide Gurnari, Yue Wu, Ahmad Farhat, Niklas Hellmer, Alexander Zarebski, Bernie Hogan, Lionel Tarassenko, Oxford COVID-19 Database: a multimodal data repository for better understanding the global impact of COVID-19. University of Oxford, 2020. medRxiv (doi: https://doi.org/10.1101/2020.08.18.20177147).
